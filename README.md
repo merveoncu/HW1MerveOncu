@@ -1,2 +1,1 @@
-# MerveOncu
-# MerveOncu
+# HW1MerveOncu
